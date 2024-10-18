@@ -16,7 +16,8 @@ Currently, I’m pursuing a **BS in Creative Entrepreneurship** at the Minneapol
 A SaaS platform designed for freelancers to create practical, well-designed portfolios that showcase their work and attract clients.
 
 ### Other Projects
-- [Osmanya Project](https://osmanya.vercel.app/)   
+- [Osmanya Project](https://osmanya.vercel.app/)
+- [Isbar](https://github.com/anas2479/isbar) 
 
 ## 🐪 Let's Connect
 
